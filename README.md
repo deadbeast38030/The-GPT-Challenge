@@ -21,7 +21,7 @@
 
 ## Overview
 
-**farmphile AI** is a hackathon submission that puts the power of AI directly in the hands of Indian farmers — no internet required, ever. Built with [Expo React Native](https://expo.dev/) and powered by the [AnyWhere SDK](https://github.com/RunanywhereAI/runanywhere-sdks) for fully on-device neural network inference, farmphile AI runs on any Android or iOS smartphone.
+**Farmphile AI** is a hackathon submission that puts the power of AI directly in the hands of Indian farmers — no internet required, ever. Built with [Expo React Native](https://expo.dev/) and powered by the [AnyWhere SDK](https://github.com/RunanywhereAI/runanywhere-sdks) for fully on-device neural network inference, farmphile AI runs on any Android or iOS smartphone.
 
 Farmers can photograph their crops, record machinery sounds, and access a curated knowledge base — all without a single byte of data leaving the device.
 
