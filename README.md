@@ -264,8 +264,11 @@ Rice / Paddy · Wheat · Sugarcane · Tomato · Potato · Cotton · Grapes · Cu
 
 Built for: **THE GPT CHALLENGE by Guru Gobind Singh Indraprastha University (GGSIPU), Delhi**  
 Track: Agricultural Technology / AI for Good  
-Team: codeX
-
+**Team: CODEX**
+Prakruti Parimita Rath(Team Lead)
+Suraj Nath
+Manish Debnath
+Deep Ball
 ---
 
 ## License
