@@ -29,10 +29,10 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 **Images of APK**
 
 <img width="380" height="800" alt="Landing page" src="https://github.com/user-attachments/assets/2afb27dd-49de-40f9-b775-68fe000fad61" />
-<img width="767" height="1600" alt="Crop Detection Screen" src="https://github.com/user-attachments/assets/c396a0a1-7b00-4f60-b445-a1e182843111" />
-<img width="766" height="1599" alt="Machinery Sound Analysis" src="https://github.com/user-attachments/assets/cb261fec-26f5-4f78-beb7-37c7f14aead5" />
-<img width="765" height="1600" alt="Database" src="https://github.com/user-attachments/assets/eed65451-3c3d-4fab-8409-fb4902e26622" />
-<img width="749" height="1600" alt="Settings interface" src="https://github.com/user-attachments/assets/507cb17b-f490-4253-9739-31602eca8aca" />
+<img width="380" height="800" alt="Crop Detection Screen" src="https://github.com/user-attachments/assets/c396a0a1-7b00-4f60-b445-a1e182843111" />
+<img width="380" height="800" alt="Machinery Sound Analysis" src="https://github.com/user-attachments/assets/cb261fec-26f5-4f78-beb7-37c7f14aead5" />
+<img width="380" height="800" alt="Database" src="https://github.com/user-attachments/assets/eed65451-3c3d-4fab-8409-fb4902e26622" />
+<img width="380" height="800" alt="Settings interface" src="https://github.com/user-attachments/assets/507cb17b-f490-4253-9739-31602eca8aca" />
 
 ---
 
