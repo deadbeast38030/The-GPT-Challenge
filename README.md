@@ -19,6 +19,23 @@
 
 ---
 
+## Problem Statement
+
+Over 65% of Indian farmers operate in low-connectivity rural areas. 
+When crops fall sick or machinery fails, immediate expert help is unavailable.
+
+This leads to:
+- Delayed treatment
+- Crop yield loss
+- Financial stress
+- Dependence on middlemen
+
+Most agricultural AI solutions require internet — making them unusable where they are needed most.
+
+**Farmphile AI** solves this gap by bringing 100% offline AI directly to farmers' smartphones.
+
+---
+
 ## Overview
 
 **Farmphile AI** is a hackathon submission that puts the power of AI directly in the hands of Indian farmers — no internet required, ever. Built with [Expo React Native](https://expo.dev/) and powered by the [AnyWhere SDK](https://github.com/RunanywhereAI/runanywhere-sdks) for fully on-device neural network inference, farmphile AI runs on any Android or iOS smartphone.
@@ -103,7 +120,7 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 
 > GitHub: [https://github.com/RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
-farmphile AI uses the **AnyWhere SDK** by RunanywhereAI to perform all neural network inference directly on the device. This enables:
+Farmphile AI uses the **AnyWhere SDK** by RunanywhereAI to perform all neural network inference directly on the device. This enables:
 
 - **Zero-latency inference** — no round-trip to cloud servers
 - **Privacy-first** — images and audio never leave the device
