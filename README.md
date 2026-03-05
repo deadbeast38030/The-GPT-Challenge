@@ -57,6 +57,12 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 
 ## Features
 
+### Distinctive features
+- **Zero-latency inference** — no round-trip to cloud servers
+- **Privacy-first** — images and audio never leave the device(100% privacy)
+- **Works in remote areas** — no cell data or WiFi needed
+- **INT8 quantized models** — fast on low-end Android devices (1 GB RAM compatible)
+
 ### Crop Disease Analysis
 - Capture or select an image from the camera roll
 - On-device image classification using AnyWhere SDK + TFLite
@@ -120,12 +126,7 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 
 > GitHub: [https://github.com/RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
-Farmphile AI uses the **AnyWhere SDK** by RunanywhereAI to perform all neural network inference directly on the device. This enables:
-
-- **Zero-latency inference** — no round-trip to cloud servers
-- **Privacy-first** — images and audio never leave the device
-- **Works in remote areas** — no cell data or WiFi needed
-- **INT8 quantized models** — fast on low-end Android devices (1 GB RAM compatible)
+Farmphile AI uses the **AnyWhere SDK** by RunanywhereAI to perform all neural network inference directly on the device. 
 
 ### Integration Points
 
