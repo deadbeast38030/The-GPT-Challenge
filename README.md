@@ -127,6 +127,31 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 > GitHub: [https://github.com/RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
 Farmphile AI uses the **AnyWhere SDK** by RunanywhereAI to perform all neural network inference directly on the device. 
+Use of RunAnywhere SDK
+
+Farmphile AI integrates the RunAnywhere SDK to enable efficient on-device AI inference directly on Android devices. The SDK allows machine learning models to run locally on the smartphone without requiring any cloud connectivity.
+
+**##The RunAnywhere SDK is used to execute optimized AI models for:**
+
+1. Crop and Soil Image Analysis
+Images captured using the device camera are processed locally through an on-device model to detect crop diseases, pest damage, and nutrient deficiencies.
+
+2. Agricultural Machinery Sound Diagnosis
+Audio recordings of farming machinery are analyzed using an on-device audio classification model to detect abnormal sounds, potential mechanical failures, and severity levels.
+
+The SDK helps optimize model execution for low latency and efficient resource usage, making it possible to deliver AI-powered analysis even on low-end Android devices commonly used in rural areas.
+
+By leveraging RunAnywhere’s local inference capabilities, Farmphile AI ensures:
+
+100% offline functionality
+
+Fast real-time predictions
+
+No cloud infrastructure dependency
+
+Complete user data privacy
+
+This integration demonstrates how AI can be deployed directly on edge devices to create scalable and accessible solutions for real-world problems such as agricultural diagnostics in connectivity-limited regions.
 
 ### Integration Points
 
